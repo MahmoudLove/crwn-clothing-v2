@@ -1,0 +1,2 @@
+npm add sass 
+then just write sass no need to compile to css first using node-sass .sass .css --w
