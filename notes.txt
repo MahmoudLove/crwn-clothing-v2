@@ -1,2 +1,7 @@
 npm add sass 
 then just write sass no need to compile to css first using node-sass .sass .css --w
+
+npm install firebase
+choose web from the project
+authentication choose google as signin method -- https://firebase.google.com/docs/auth/web/google-signin#web-version-9_3
+in firebase  folder=collection  files=document things written in files =data
